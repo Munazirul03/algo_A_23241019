@@ -1,72 +1,41 @@
-<mxfile host="app.diagrams.net" modified="2023-10-16T01:18:16.957Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/118.0" etag="IMXibxIWryzP3iVzj3zV" version="22.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-16T01:33:33.973Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/118.0" etag="dEiO1DEV82xtAZn1wwO2" version="22.0.4" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="880" dy="470" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
-        <mxCell id="nqUoYy2G-N04LLQBiTAR-24" value="MULAI" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="369" y="30" width="100" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="nqUoYy2G-N04LLQBiTAR-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="nqUoYy2G-N04LLQBiTAR-26" target="nqUoYy2G-N04LLQBiTAR-27">
+        <mxCell id="nqUoYy2G-N04LLQBiTAR-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="nqUoYy2G-N04LLQBiTAR-47" target="nqUoYy2G-N04LLQBiTAR-48">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="nqUoYy2G-N04LLQBiTAR-26" value="Menetapkan bilangan ganjil\genap" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="349" y="130" width="130" height="70" as="geometry" />
+        <mxCell id="nqUoYy2G-N04LLQBiTAR-47" value="Start" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="364" y="40" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="nqUoYy2G-N04LLQBiTAR-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="nqUoYy2G-N04LLQBiTAR-27" target="nqUoYy2G-N04LLQBiTAR-28">
+        <mxCell id="nqUoYy2G-N04LLQBiTAR-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="nqUoYy2G-N04LLQBiTAR-48" target="nqUoYy2G-N04LLQBiTAR-49">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="nqUoYy2G-N04LLQBiTAR-27" value="Dibagi menjadi 2" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="364" y="230" width="100" height="100" as="geometry" />
+        <mxCell id="nqUoYy2G-N04LLQBiTAR-48" value="Menghitung luas lingkaran" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="364" y="140" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="nqUoYy2G-N04LLQBiTAR-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="nqUoYy2G-N04LLQBiTAR-28">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="414" y="560" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="nqUoYy2G-N04LLQBiTAR-44" value="Tidak bisa" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="nqUoYy2G-N04LLQBiTAR-40">
-          <mxGeometry x="-0.337" y="2" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="nqUoYy2G-N04LLQBiTAR-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="nqUoYy2G-N04LLQBiTAR-28" target="nqUoYy2G-N04LLQBiTAR-30">
+        <mxCell id="nqUoYy2G-N04LLQBiTAR-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="nqUoYy2G-N04LLQBiTAR-49" target="nqUoYy2G-N04LLQBiTAR-50">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="nqUoYy2G-N04LLQBiTAR-45" value="Bisa" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="nqUoYy2G-N04LLQBiTAR-41">
-          <mxGeometry x="-0.3255" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
+        <mxCell id="nqUoYy2G-N04LLQBiTAR-49" value="&lt;div&gt;PHI-2 2\7&lt;/div&gt;&lt;div&gt;D-10&lt;br&gt;&lt;/div&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="364" y="240" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="nqUoYy2G-N04LLQBiTAR-28" value="Bilangan dibagi dengan 2" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="364" y="370" width="100" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="nqUoYy2G-N04LLQBiTAR-30" value="Genap" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="580" y="390" width="100" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="nqUoYy2G-N04LLQBiTAR-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="nqUoYy2G-N04LLQBiTAR-32" target="nqUoYy2G-N04LLQBiTAR-33">
+        <mxCell id="nqUoYy2G-N04LLQBiTAR-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="nqUoYy2G-N04LLQBiTAR-50" target="nqUoYy2G-N04LLQBiTAR-51">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="nqUoYy2G-N04LLQBiTAR-32" value="Ganjil" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="360" y="561" width="100" height="60" as="geometry" />
+        <mxCell id="nqUoYy2G-N04LLQBiTAR-50" value="LUAS O-PHI(22\7) Dikali diameter" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="364" y="360" width="100" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="nqUoYy2G-N04LLQBiTAR-33" value="FINISH" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="360" y="680" width="100" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="nqUoYy2G-N04LLQBiTAR-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.431;entryY=-0.014;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="nqUoYy2G-N04LLQBiTAR-24">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="414.03" y="129.01999999999998" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="nqUoYy2G-N04LLQBiTAR-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="nqUoYy2G-N04LLQBiTAR-32" target="nqUoYy2G-N04LLQBiTAR-32">
+        <mxCell id="nqUoYy2G-N04LLQBiTAR-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="nqUoYy2G-N04LLQBiTAR-51" target="nqUoYy2G-N04LLQBiTAR-52">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="nqUoYy2G-N04LLQBiTAR-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="nqUoYy2G-N04LLQBiTAR-30" target="nqUoYy2G-N04LLQBiTAR-33">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="750" y="420" />
-              <mxPoint x="750" y="710" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="nqUoYy2G-N04LLQBiTAR-51" value="LUAS LINGKARANG " style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="364" y="510" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nqUoYy2G-N04LLQBiTAR-52" value="FINISH" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="570" y="510" width="100" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
